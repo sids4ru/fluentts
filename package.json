@@ -1,0 +1,22 @@
+{
+  "name": "fluent-ui-example",
+  "version": "1.0.0",
+  "description": "An exported example from Fluent UI React, https://aka.ms/fluent-ui/",
+  "main": "index.tsx",
+  "dependencies": {
+    "@fluentui/code-sandbox": "0.54.0",
+    "@fluentui/docs-components": "0.54.0",
+    "@fluentui/react-northstar": "0.54.0",
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0",
+    "prettier": "^1.19.1",
+    "react-scripts": "latest",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
